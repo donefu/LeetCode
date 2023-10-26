@@ -1,3 +1,5 @@
+package Easy;
+
 import java.util.Arrays;
 
 public class Solution_1_twoSum {

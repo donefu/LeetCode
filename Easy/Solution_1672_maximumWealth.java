@@ -1,3 +1,5 @@
+package Easy;
+
 public class Solution_1672_maximumWealth {
     public static void main(String[] args) {
         int[][] account = { { 1, 2, 3 }, { 2, 4, 6 } };

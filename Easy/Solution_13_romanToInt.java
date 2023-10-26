@@ -1,3 +1,5 @@
+package Easy;
+
 public class Solution_13_romanToInt {
     public static void main(String[] args) {
         System.out.println(romanToInt("MCMXCIV"));
